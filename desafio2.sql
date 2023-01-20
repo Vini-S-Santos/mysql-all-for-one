@@ -1,0 +1,1 @@
+SElECT * From northwind.products;
