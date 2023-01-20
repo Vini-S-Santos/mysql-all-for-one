@@ -1,0 +1,1 @@
+SElECT id From northwind.products;
