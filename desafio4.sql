@@ -1,0 +1,1 @@
+SElECT COUNT(product_name)  From northwind.products;
