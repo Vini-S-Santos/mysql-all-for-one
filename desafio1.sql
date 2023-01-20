@@ -1,0 +1,1 @@
+SElECT product_name From northwind.products;
