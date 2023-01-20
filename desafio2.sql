@@ -1,1 +1,1 @@
-SElECT * From northwind.products;
+SElECT * From products;

@@ -1,1 +1,1 @@
-SElECT product_name From northwind.products;
+SElECT product_name From products;

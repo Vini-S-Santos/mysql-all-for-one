@@ -1,1 +1,1 @@
-SElECT COUNT(product_name)  From northwind.products;
+SElECT COUNT(product_name) From products;

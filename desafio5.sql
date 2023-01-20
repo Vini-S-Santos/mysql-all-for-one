@@ -1,1 +1,1 @@
-SElECT *  From northwind.products LIMIT 10 OFFSET 3;
+SElECT *  From products LIMIT 10 OFFSET 3;
